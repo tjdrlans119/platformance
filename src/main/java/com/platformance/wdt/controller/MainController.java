@@ -14,6 +14,7 @@ import java.sql.Statement;
 @RestController
 @RequestMapping("api")
 public class MainController {
+
     @GetMapping("test")
     public String test(@RequestParam(value = "title")String title) {
 
@@ -37,4 +38,6 @@ public class MainController {
 
         return result;
     }
+
+
 }
