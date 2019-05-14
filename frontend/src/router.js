@@ -11,7 +11,7 @@ import Components from "./views/Components.vue";
 import DevPad from "./views/dbpad/Dev_class.vue";
 import NormalPad from "./views/dbpad/Normal_class.vue";
 import StudentPad from "./views/dbpad/Student_class.vue";
-import TestPad from "./views/testpad/Main.vue";
+import TestPad from "./views/dbpad/TestPadMain.vue";
 
 
 Vue.use(Router);

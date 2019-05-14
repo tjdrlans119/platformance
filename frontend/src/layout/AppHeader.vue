@@ -53,6 +53,16 @@
                                 <p class="description d-none d-md-inline-block mb-0">개발자님들 이리오슈</p>
                             </div>
                         </router-link>
+                        <router-link to="/testpad"
+                           class="media d-flex align-items-center">
+                            <div class="icon icon-shape bg-gradient-success rounded-circle text-white">
+                                <i class="ni ni-settings"></i>
+                            </div>
+                            <div class="media-body ml-3">
+                                <h5 class="heading text-warning mb-md-1">TESTPAD</h5>
+                                <p class="description d-none d-md-inline-block mb-0">TESTPAD입니다</p>
+                            </div>
+                        </router-link>
                     </div>
                 </base-dropdown>
                 <base-dropdown tag="li" class="nav-item">
