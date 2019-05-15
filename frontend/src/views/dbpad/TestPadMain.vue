@@ -39,7 +39,7 @@
                     </li>
                     <li class="nav-item">
                       <a data-toggle="tab" role="tab" href="#undefined" class="nav-link active" aria-selected="true"><i class="ni ni-cloud-upload-96 mr-2"></i>Dashboard</a>
-                    </li>
+                    </li> 
                   </ul>
                 </div>
               </div>
