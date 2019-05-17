@@ -1,7 +1,17 @@
 
 <h2>PlatFormance-DBPAD-Frontend</h2>
 
+PlatFormance의 첫번째 프로젝트 DBPAD 의 프론트 단입니다.
+vue.js 로 구현되어있으며
+Open Template를 사용합니다.
 
+구현스펙:
+ - 
+ -
+ -
+ -
+ -
+ ...
 
 
 
