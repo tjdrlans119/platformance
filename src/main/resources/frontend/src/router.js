@@ -12,8 +12,7 @@ import DevPad from "./views/dbpad/Dev_class.vue";
 import NormalPad from "./views/dbpad/Normal_class.vue";
 import StudentPad from "./views/dbpad/Student_class.vue";
 import TestPad from "./views/dbpad/TestPadMain.vue";
-import AxiosTest from "./views/axiostest.vue";
-import TestPage from "./views/testpage.vue";
+
 
 Vue.use(Router);
 
@@ -107,24 +106,6 @@ export default new Router({
       components: {
         header: AppHeader,
         default: TestPad,
-        footer: AppFooter
-      }
-    },
-    {
-      path: "/axiostest",
-      name: "axiostest",
-      components: {
-        header: AppHeader,
-        default: AxiosTest,
-        footer: AppFooter
-      }
-    },
-    {
-      path: "/testpage",
-      name: "testpage",
-      components: {
-        header: AppHeader,
-        default: TestPage,
         footer: AppFooter
       }
     }

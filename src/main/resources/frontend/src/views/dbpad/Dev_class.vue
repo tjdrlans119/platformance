@@ -14,23 +14,17 @@
                     <h1 class="text-white font-weight-light">개발자모드</h1>
                 </div>
             </div>
-            <div class="row justify-content-between align-items-center">
-                <SqlPanel></SqlPanel>
-            </div>
         </div>
     </section>
 </template>
 <script>
 import BCarousel from "bootstrap-vue/es/components/carousel/carousel";
 import BCarouselSlide from "bootstrap-vue/es/components/carousel/carousel-slide";
-import SqlPanel from "./panel/Sql.vue";
 
 export default {
   components: {
     BCarousel,
-    BCarouselSlide,
-    SqlPanel
-
+    BCarouselSlide
   }
 };
 </script>

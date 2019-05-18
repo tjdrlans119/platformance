@@ -11,11 +11,6 @@
         <div class="container py-0 pb-lg">
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-5 mb-5 mb-lg-0">
-
-                  <router-link to="/testpage" class="media d-flex align-items-center">
-                    <button> testpage 이동</button>
-                  </router-link>
-
                     <h1 class="text-white font-weight-light">우리는 Platformance입니다</h1>
                     <p class="lead text-white mt-4">이거슨 DB PAD다. 웹에서 DB를 컨트롤할수 있지</p>
                     <a href="#" class="btn btn-white mt-4">튜토리얼 해보기</a>
