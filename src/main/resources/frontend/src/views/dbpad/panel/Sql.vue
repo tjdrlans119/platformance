@@ -1,6 +1,6 @@
 <template>
     <div>
-      Sql view
+      Sql view 입니다 pannel 임포트입니당
     </div>
 </template>
 

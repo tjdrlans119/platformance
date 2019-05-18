@@ -11,28 +11,14 @@
         <div class="container py-0 pb-lg">
             <div class="row justify-content-between align-items-center">
                 <div class="col-lg-5 mb-5 mb-lg-0">
-                    <h1 class="text-white font-weight-light">개발자모드</h1>
+                  2hhh2h2hh2h22h2h
                 </div>
-            </div>
-            <div class="row justify-content-between align-items-center">
-                <SqlPanel></SqlPanel>
             </div>
         </div>
     </section>
 </template>
 <script>
-import BCarousel from "bootstrap-vue/es/components/carousel/carousel";
-import BCarouselSlide from "bootstrap-vue/es/components/carousel/carousel-slide";
-import SqlPanel from "./panel/Sql.vue";
 
-export default {
-  components: {
-    BCarousel,
-    BCarouselSlide,
-    SqlPanel
-
-  }
-};
 </script>
 <style>
 </style>
