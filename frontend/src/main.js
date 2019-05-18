@@ -12,7 +12,7 @@ import './registerServiceWorker';
 
 Vue.config.productionTip = false;
 Vue.use(Argon);
-new Vue({
+new Vue({  
   router,
   render: h => h(App)
 }).$mount("#app");
